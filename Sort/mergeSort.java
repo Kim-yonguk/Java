@@ -67,6 +67,5 @@ public class mergeSort {
 		while(a<=j) {
 			arr[a++]=tmp[t++];
 		}
-		
 	}
 }
