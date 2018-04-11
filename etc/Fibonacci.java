@@ -13,7 +13,7 @@ public class Fibonacci {
 	
 	public static int Fibo(int n) {
 		int one=1;
-		int two=2;
+		int two=1;
 		int result=0;
 		if(n==1) {
 			return one;
