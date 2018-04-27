@@ -48,11 +48,6 @@ public class trafficLight {
 		MyPanel5.setBounds(0,0,320,150);
 		MyPanel2.setBounds(0,150,320,90);
 		
-//		static JPanel MyPanel1=new BackGround();
-//		static JPanel MyPanel2=new JPanel();
-//		static JPanel MyPanel3=new RED();
-//		static JPanel MyPanel4=new YELLOW();
-//		static JPanel MyPanel5=new GREEN();
 		
 		
 		JRadioButton Red=new JRadioButton("RED");
