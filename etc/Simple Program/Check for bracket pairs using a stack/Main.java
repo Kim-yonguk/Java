@@ -27,12 +27,12 @@ public class Main {
 					break;
 				
 				case '}' :
-					if(stack.isEmpty() || (ch=stack.pop()) != '(') {
+					if(stack.isEmpty() || (ch=stack.pop()) != '{') {
 						isIncorrect=true;
 					}
 					break;
 				case ']' :
-					if(stack.isEmpty() || (ch=stack.pop()) != '(') {
+					if(stack.isEmpty() || (ch=stack.pop()) != '[') {
 						isIncorrect=true;
 					}
 					break;
