@@ -1,4 +1,3 @@
-package al1021;
 
 import java.util.LinkedList;
 import java.util.Scanner;
