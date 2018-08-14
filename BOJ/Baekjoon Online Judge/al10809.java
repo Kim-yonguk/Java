@@ -1,4 +1,4 @@
-package algorithm10809;
+
 
 import java.util.Scanner;
 
