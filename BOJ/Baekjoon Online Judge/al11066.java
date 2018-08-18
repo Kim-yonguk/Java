@@ -34,7 +34,7 @@ public class Main {
 			System.out.println(process(dp, arr, sum, 1, num));
 		}
 		
-		
+		 
 	}
 	
 	public static int process(int dp[][],int arr[],int sum[],int start,int end) {
